@@ -43,7 +43,7 @@ You can view a variety of comedic and romantic novel covers at [RomCom](https://
 * **Saving a Cover:**  To save a cover you can click on the `Save Cover` button.  The `Save Cover` button will save any cover that is currently on the screen.
 
 
-* **Viewing Saved Covers:**  To view any covers that you have saved you can click the `View Saved Covers` button.  All the images you have sved will be displayed on the page.
+* **Viewing Saved Covers:**  To view any covers that you have saved you can click the `View Saved Covers` button.  All the images you have saved will be displayed on the page.
 
 
 * **Deleting Saved Covers:**  To delete a cover from your saved covers list, double click on the cover you wish to delete and it will be removed from the page.
